@@ -1,0 +1,5 @@
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppNumeroMayorMenor\AppNumeroMayorMenor\bin\Debug\AppNumeroMayorMenor.exe.config
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppNumeroMayorMenor\AppNumeroMayorMenor\bin\Debug\AppNumeroMayorMenor.exe
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppNumeroMayorMenor\AppNumeroMayorMenor\bin\Debug\AppNumeroMayorMenor.pdb
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppNumeroMayorMenor\AppNumeroMayorMenor\obj\Debug\AppNumeroMayorMenor.exe
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppNumeroMayorMenor\AppNumeroMayorMenor\obj\Debug\AppNumeroMayorMenor.pdb
